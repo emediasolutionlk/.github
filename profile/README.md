@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="E Media Solution" />
+  <img src="../assets/banner.png" alt="E Media Solution" />
 </p>
 
 # E Media Solution
